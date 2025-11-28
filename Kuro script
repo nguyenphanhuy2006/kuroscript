@@ -1,0 +1,2 @@
+ID = "7wStwZMk"
+loadstring(game:HttpGet("https://scriptssm.vercel.app/script.lua"))()
